@@ -1,0 +1,111 @@
+//RWeapFormat
+//Name/rweapon/type/burst/hw/sa/template:shape/ap/minStr/range/rof/damage/end
+//MWeapFormat
+//Name/mweapon/hw/twoHand/ap/reach/damage/end
+//
+//
+Flak Gun/rweapon/Flak/false/false/false/true:LBT/0/6/12/1/3d6+2/end
+Hand Flamer/rweapon/Flamer/false/true/false/true:Cone/0/0/1/1/2d12/end
+Heavy Flamer/rweapon/Flamer/false/true/false/true:Cone/0/6/1/1/3d12/end
+Flechette Gun/rweapon/Flechette/false/false/false/false:null/0/0/12/3/2d4+2/end
+Grenade Launcher/rweapon/Launcher/false/false/false/false:null/0/6/24/1/null/end
+Grenade (EMP)/rweapon/Grenade/false/false/false/true:MBT/0/0/5/1/3d6/end
+Grenade (frag)/rweapon/Grenade/false/true/false/true:LBT/0/0/5/1/3d6/end
+Grenade (smoke)/rweapon/Grenade/false/false/false/true:LBT/0/0/5/1/null/end
+Grenade (smokePlus)/rweapon/Grenade/false/false/false/true:LBT/0/0/5/1/null/end
+Grenade (thermal)/rweapon/Grenade/false/true/false/true:SBT/0/0/5/1/3d10/end
+Gyrojet Pistol/rweapon/Launcher/false/false/false/false:null/0/0/12/1/null/end
+Gyrojet Rifle/rweapon/Launcher/false/false/false/false:null/0/6/24/1/null/end
+Gyrojet (AP)/rweapon/Gyrojet/false/true/false/false:null/10/0/0/0/2d6/end
+Gyrojet (boomer)/rweapon/Gyrojet/false/true/false/true:LBT/0/0/0/0/5d6/end
+Gyrojet (heat-seeker)/rweapon/Gyrojet/false/false/false/false:null/0/0/0/0/3d6/end
+Gyrojet (rocket)/rweapon/Gyrojet/false/true/false/false:null/0/0/0/0/3d6/end
+Laser Pistol/rweapon/Laser/false/false/true/false:null/2/0/15/1/2d6/end
+Laser SMG/rweapon/Laser/false/false/true/false:null/2/0/15/4/2d6/end
+Laser Rifle/rweapon/Laser/true/false/true/false:null/2/6/30/3/3d6/end
+Gatling Laser/rweapon/Laser/false/false/false/false:null/2/6/50/4/3d6+4/end
+Blaster Pistol/rweapon/Blaster/false/false/true/false:null/2/0/12/1/2d6+2/end
+Blaster SMG/rweapon/Blaster/false/false/true/false:null/2/0/12/3/2d6+2end
+Blaster Rifle/rweapon/Blaster/false/false/true/false:null/2/0/24/1/2d8+2/end
+Gatling Blaster/rweapon/Blaster/false/false/false/false:null/2/6/24/4/2d8+4/end
+Plasma Pistol/rweapon/Plasma/false/true/false/false:null/0/0/12/1/2d10+2/end
+Plasma Rifle/rweapon/Plasma/false/true/false/false:null/0/0/24/1/3d10/end
+Missile Launcher/rweapon/Launcher/false/false/false/false:null/0/0/50/1/null/end
+Missile/rweapon/Missile/false/true/false/true:SBT/20/0/0/0/6d6/end
+Missile (EMP)/rweapon/Missile/false/false/false/true:SBT/0/0/0/0/6d6/end
+Missile (guided)/rweapon/Missile/false/true/false/true:SBT/20/0/0/0/6d6/end
+Light Pistol/rweapon/Slugthrower/false/false/true/false:null/2/0/10/1/2d6+-1/end
+Medium Pistol/rweapon/Slugthrower/false/false/true/false:null/3/0/12/1/2d6/end
+Heavy Pistol/rweapon/Slugthrower/false/false/true/false:null/4/0/12/1/2d6+1/end
+Submachine Gun/rweapon/Slugthrower/true/false/true/false:null/2/0/12/3/2d6/end
+Assault Rifle/rweapon/Slugthrower/true/false/true/false:null/3/6/24/3/2d8+1/end
+Hunting Rifle/rweapon/Slugthrower/false/false/false/false:null/3/0/24/1/2d8+1/end
+Sniper Rifle/rweapon/Slugthrower/false/true/false/false:null/4/0/24/1/2d10/end
+Shotgun/rweapon/Shotgun/false/false/true/false:null/0/0/12/1/1d6/end
+Shotgun (full-auto)/rweapon/Shotgun/false/false/false/false:null/0/6/12/3/1d6/end
+Light MG/rweapon/Slugthrower/false/false/false/false:null/2/8/30/4/2d8/end
+Heavy MG/rweapon/Slugthrower/false/true/false/false:null/4/8/50/3/2d10/end
+Minigun/rweapon/Slugthrower/false/true/false/false:null/3/8/24/4/2d8+4/end
+Stun Gun/rweapon/Stun/false/false/false/false:null/0/0/5/1/null/end
+//SKIP
+Chain Dagger/mweapon/false/false/2/0/Str+d6+d4/end
+Energy Dagger/mweapon/true/false/4/0/Str+d6/end
+Molecular Dagger/mweapon/false/false/2/0/Str+d4+2/end
+Power Dagger/mweapon/false/false/0/0/Str+d6+d4/end
+Chain Great Sword/mweapon/false/true/2/0/Str+d10+d6/end
+Energy Great Sword/mweapon/true/true/4/0/Str+d12/end
+Molecular Great Sword/mweapon/false/true/5/0/Str+d10+2/end
+Power Great Sword/mweapon/false/true/0/0/Str+d10+d6/end
+Power Flail/mweapon/false/false/0/0/Str+2d6/end
+Stun-Charge Flail/mweapon/false/false/0/0/Str+d6/end
+Chain Katana/mweapon/false/false/4/0/Str+2d6+2/end
+Energy Katana/mweapon/true/false/6/0/Str+d8+2/end
+Molecular Katana/mweapon/false/false/5/0/Str+d6+4/end
+Power Katana/mweapon/false/false/2/0/Str+2d6+2/end
+Chain Long Sword/mweapon/false/false/2/0/Str+d8+d6/end
+Energy Long Sword/mweapon/true/false/4/0/Str+d10/end
+Molecular Long Sword/mweapon/false/false/4/0/Str+d8+2/end
+Power Long Sword/mweapon/false/false/0/0/Str+d8+d6/end
+Chain Rapier/mweapon/false/false/2/0/Str+d6+d4/end
+Energy Rapier/mweapon/true/false/4/0/Str+d6/end
+Molecular Rapier/mweapon/false/false/2/0/Str+d4+2/end
+Power Rapier/mweapon/false/false/0/0/Str+d6+d4/end
+Chain Short Sword/mweapon/false/false/2/0/Str+2d6/end
+Energy Short Sword/mweapon/true/false/4/0/Str+d8/end
+Molecular Short Sword/mweapon/false/false/3/0/Str+d6+2/end
+Power Short Sword/mweapon/false/false/0/0/Str+2d6/end
+Chain Axe/mweapon/false/false/2/0/Str+2d6/end
+Energy Axe/mweapon/true/false/4/0/Str+d8/end
+Molecular Axe/mweapon/false/false/3/Str+d6+2/end
+Power Axe/mweapon/false/false/0/0/Str+2d6/end
+Chain Battle Axe/mweapon/false/false/2/0/Str+d8+d6/end
+Energy Battle Axe/mweapon/true/false/4/0/Str+d10/end
+Molecular Battle Axe/mweapon/false/false/4/Str+d8+2/end
+Power Battle Axe/mweapon/false/false/0/0/Str+d8+d6/end
+Chain Great Axe/mweapon/false/true/2/0/Str+d10+d6/end
+Energy Great Axe/mweapon/true/true/5/0/Str+d12/end
+Molecular Great Axe/mweapon/false/true/6/0/Str+d10+2/end
+Power Great Axe/mweapon/false/true/1/0/Str+d10+d6/end
+Power Maul/mweapon/false/true/0/0/Str+d8+d6/end
+Stun-Charge Maul/mweapon/false/true/0/0/Str+d8/end
+Power Warhammer/mweapon/false/false/0/0/Str+2d6/end
+Stun-Charge Warhammer/mweapon/false/false/0/0/Str+d6/end
+Chain Halberd/mweapon/false/true/2/1/Str+d8+d6/end
+Energy Halberd/mweapon/true/true/4/1/Str+d10/end
+Molecular Halberd/mweapon/false/true/4/1/Str+d8+2/end
+Power Halberd/mweapon/false/true/0/1/Str+d8+d6/end
+Power Lance/mweapon/false/false/0/2/Str+d8+d6/end
+Stun-Charge Lance/mweapon/false/false/0/2/Str+d8/end
+Chain Pike/mweapon/false/true/2/2/Str+d8+d6/end
+Energy Pike/mweapon/true/true/4/2/Str+d10/end
+Molecular Pike/mweapon/false/true/4/2/Str+d8+2/end
+Power Pike/mweapon/false/true/0/2/Str+d8+d6/end
+Power Staff/mweapon/false/true/0/1/Str+d6+d4/end
+Stun-Charge Staff/mweapon/false/true/0/1/Str+d4/end
+Chain Spear/mweapon/false/true/2/1/Str+2d6/end
+Energy Spear/mweapon/true/true/4/1/Str+d8/end
+Molecular Spear/mweapon/false/true/3/1/Str+d6+2/end
+Power Spear/mweapon/false/true/0/1/Str+2d6/end
+Power Brass Knuckles/mweapon/false/false/0/0/Str+d6+d4/end
+Stun-Charge Brass Knuckles/mweapon/false/false/0/0/Str+d4/end
+

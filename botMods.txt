@@ -1,0 +1,30 @@
+//Format: ModName,MaxTimesTaken,ModSlotCost
+//If unlimited, MTT = -1
+Android,1,2
+Aquatic,1,1
+Armour,-1,1
+Attribute,-1,0.2
+Data Jack,1,0
+Flight,-1,2
+Heavy Armour,-1,2
+Heroic Edge,-1,4
+Immobile,-1,-2
+Legendary Edge,-1,5
+Magnetic Pads,1,1
+Novice Edge,-1,1
+Pace,-1,1
+Power Pack,1,1
+Seasoned Edge,-1,2
+Sensor Suite,1,1
+Size Increase,-1,-1
+Size Reduction,2,1
+Skill,-1,0.2
+Stealth System,1,2
+Targeting System,1,1
+Tracked,-1,0
+Trait Bonus,-1,1
+Veteran Edge,-1,3
+Wall Walker,1,1
+Weapon Mount,-1,1
+Wheeled,-1,0
+Wild Card,1,0
