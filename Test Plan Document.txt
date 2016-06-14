@@ -1,0 +1,31 @@
+The following tests should determine whether the program is functioning properly:
+
+-Ensure the simulation resets properly by pressing the cancel button at every stage of the simulation:
+	-Should bring you back to the main menu
+	-Should revert the simulation back to the map choosing screen if "start simulation" is pressed again
+
+-Ensure there are no removal issues by placing and then removing one of each kind of robot on each team:
+	-Removal buttons should only allow removal of bots from their team
+	-Should appropriately update team lists
+
+-Ensure there are no movement/combat/damage errors by placing one of each type of robot on each team and playing through:
+	-Log should reflect what is seen on the map
+	-Incapacitated robots should not be targetted or attacked
+	-The simulation should end when one team is empty; the next turn button should then be inactive
+	-Robots should have no more than one turn per round
+
+-Ensure the simulation can't start with any empty list by trying to run it with no robots, only a robot from team 1, and only a robot from team 2
+	-Should resist advancing to the next phase
+	-Should output a notice that teams cannot be empty
+
+-Ensure map limitation is in effect by attempting to run a "coming soon" map
+	-Button should be inactive
+
+
+
+
+
+
+*KNOWN BUG*
+-If you cancel rather than choosing a type for a robot, the map will show its icon there even though the robot doesn't exist
+	-This can be fixed by placing a robot of either team on that location and then removing it; the tile will revert to blank

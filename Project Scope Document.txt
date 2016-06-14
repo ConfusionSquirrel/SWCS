@@ -1,0 +1,6 @@
+My final project, the Savage Worlds Combat Simulator, is primarily a tool for anyone involed in the
+tabletop roleplaying game Savage Worlds (similar to D&D). It will pit two teams of robots, designed
+according to the guidelines laid out in the SW Sci-Fi companion, against each other until only
+one remains. Combat will be designed to closely but not fully mimic the combat system of Savage
+Worlds. The project will give the user the ability to customize the teams, with multiple models of
+robots to choose from.
